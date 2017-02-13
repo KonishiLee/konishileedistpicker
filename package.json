@@ -1,0 +1,90 @@
+{
+  "name": "konishileedistpicker",
+  "description": "A simple jQuery plugin for picking provinces, cities and districts of China.",
+  "version": "1.0.2",
+  "main": "konishileedistpicker.js",
+  "keywords": [
+    "中国",
+    "省份",
+    "城市",
+    "行政区",
+    "省市区",
+    "三级联动",
+    "地址选择器",
+    "China",
+    "province",
+    "provinces",
+    "city",
+    "cities",
+    "district",
+    "districts",
+    "pick",
+    "picker",
+    "picking",
+    "jquery",
+    "plugin",
+    "html",
+    "css",
+    "javascript",
+    "front-end",
+    "web",
+    "development"
+  ],
+  "author": {
+    "name": "konishilee",
+    "url": "https://github.com/KonishiLee"
+  },
+  "homepage": "https://github.com/KonishiLee/distpicker",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KonishiLee/distpicker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KonishiLee/distpicker/issues"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "jquery": ">= 1.9.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-jscs": "^2.0.0",
+    "gulp-jshint": "^1.11.0",
+    "gulp-load-plugins": "^1.0.0-rc.1",
+    "gulp-rename": "^1.2.0",
+    "gulp-replace": "^0.5.3",
+    "gulp-uglify": "^1.1.0"
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "'China map distpicker'"
+  },
+  "gitHead": "9cf7463b95f99d2fa3f79db9fa1ae6161d7b374f",
+  "_id": "konishileedistpicker@1.0.2",
+  "_shasum": "34e09f7f27892dbf2afd67cd226db5be06c42a48",
+  "_from": "konishileedistpicker@>=1.0.2 <1.1.0",
+  "_npmVersion": "2.7.6",
+  "_nodeVersion": "0.10.33",
+  "_npmUser": {
+    "name": "konishilee",
+    "email": "519807609@qq.com"
+  },
+  "dist": {
+    "shasum": "34e09f7f27892dbf2afd67cd226db5be06c42a48",
+    "size": 193593,
+    "noattachment": false,
+    "tarball": "http://registry.npm.taobao.org/konishileedistpicker/download/konishileedistpicker-1.0.2.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "konishilee",
+      "email": "519807609@qq.com"
+    }
+  ],
+  "publish_time": 1443597822633,
+  "_cnpm_publish_time": 1443597822633,
+  "_resolved": "https://registry.npm.taobao.org/konishileedistpicker/download/konishileedistpicker-1.0.2.tgz",
+  "readme": "ERROR: No README data found!"
+}
